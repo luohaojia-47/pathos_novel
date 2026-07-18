@@ -23,7 +23,8 @@ label guide:
     "否则就是到了时间的尽头，不甘的呐喊仍会回响"
     "..."
     "......"
-    "nevermore"
+    "nevermhore"
+
     
     
     
